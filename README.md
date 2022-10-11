@@ -24,4 +24,4 @@ git clone git@github.com:shinyaoguri/roll-a-ball.git
 - Change Font Assets `Canvas > Text(TMP), Finish`
 
 ### 5. Play
-yeah
+- yeah

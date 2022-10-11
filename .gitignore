@@ -3,6 +3,8 @@
 
 /Assets/Fonts/
 /Assets/TextMesh Pro/
+/Builds_BurstDebugInformation_DoNotShip/
+/mono_crash.*.json
 
 ### macOS ###
 # General
